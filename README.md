@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-[![Spotify](https://brookemwalters.vercel.app/api/spotify)](https://open.spotify.com/user/1220419778)
       
-      
-**BrookemWalters/BrookemWalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 
-Here are some ideas to get you started:
+&nbsp; <br> [![Spotify](brookemwalters.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1220419778)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </td>
+  <td width="50%">
+
+&nbsp;
+
+
+
+  </p>
+  </td>
+</table>
