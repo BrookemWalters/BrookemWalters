@@ -1,5 +1,5 @@
 ### Hi there, I'm Brooke👋
-Telling stories with data is my creative outlet and passion. 
+Telling stories with data is my forte
 
 
 ##### :star: a little about me :star: 
