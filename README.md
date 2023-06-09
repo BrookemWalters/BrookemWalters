@@ -7,6 +7,6 @@ Over the last decade I worked with data in various aspects,  from writing grant 
 
 My current goal is to earn my master's in data science and analytics before my 40th birthday. 
 
-:see_no_evil: ...I’m new to coding, and this is messy. 
+
 
 ![tetris](https://www.nicepng.com/png/full/140-1400683_geometry.png)
